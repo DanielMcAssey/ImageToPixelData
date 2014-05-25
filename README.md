@@ -1,7 +1,7 @@
 ImageToPixelData (Win32/.NET 2.0)
 ================
 
-Convert any image supported by .NET 2.0 
+Convert any image to per-pixel RGB data supported by .NET 2.0 
 
 INSTRUCTIONS
 ================
